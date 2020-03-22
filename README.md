@@ -1,6 +1,6 @@
 # LED-Display
 
-<img src= images/9.jpg width="25%">         <img src= images/movie.gif width="14.7%">
+<img src= images/9.jpg width="25%">         <img src= images/movie.gif width="1465.7%">
 
 <br> 
 This project demonstrates how to set up a five by five LED display
