@@ -19,14 +19,11 @@ This instructional will help guide you in making this project at home
 
 ### Setup Steps
 
-#### 1. 5mm LED
-<img src= images/1.jpg width="50%"> This is an 5mm LED
-
-#### 1. 5mm LED
-<img src= images/2.jpg width="50%"> bend all 25 small leads down
-
-#### 2. 5mm LED
-<img src= images/3.jpg width="50%"> bend all 25 big leads to the right, it's important they are all the same heigt and a good distance up from the LED, ensuring that no horizontal and vertical leads will touch
+#### 1. Bend all 25 small leads down
+<img src= images/1.jpg width="50%"><img src= images/2.jpg width="50%">
+#### 2. Bend all 25 big leads to the right
+it's important they are all the same heigt and a good distance up from the LED, ensuring that no horizontal and vertical leads will touch
+<img src= images/3.jpg width="50%"> 
 <img src= images/4.jpg width="50%">  
 
 #### 3. 5mm LED
