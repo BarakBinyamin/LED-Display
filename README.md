@@ -1,6 +1,6 @@
 # LED-Display
 
-<img src= images/9.jpg width="25%"> ![til](.images/movie.png) <img src= images/movie.mp4 width="25%">
+<img src= images/9.jpg width="25%"> ![til](.images/movie.png) <img src= images/movie.gif width="25%">
 
 A five by five led display, and sample code for an arduino to interact with it 
 
