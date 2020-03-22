@@ -1,6 +1,6 @@
 # LED-Display
 
-<img src= images/9.jpg width="25%">         <img src= images/movie.gif width="14%">
+<img src= images/9.jpg width="25%">         <img src= images/movie.gif width="14.7%">
 
 A five by five led display, and sample code for an arduino to interact with it 
 
@@ -8,28 +8,27 @@ Take a look at the starter code for how-to instructions
 
 ## Getting Started
 
-This instructional will help guide you in testing this project at home
+This instructional will help guide you in making this project at home
 
 ### Prerequisites
 
-- circuit setup prerequisites
-- bash command line
-- python3
-- wxPython
+- 25 5mm LED's
+- some cardboard, wood, or any object that could hold 25 LED's
+- an arduino microcontroller
 
 
 ### setup steps
 
-- follow circuit setup
-- download the repository
-- upload the sketch "BLEArduino.ino" (found in arduino sketches) to the arduino
-- make the bash scripts found in the GUI folder excecutable
+<img src= images/1.jpg width="25%">  
+<img src= images/2.jpg width="25%">  
+<img src= images/3.jpg width="25%">  
+<img src= images/4.jpg width="25%">  
+<img src= images/5.jpg width="25%">  
+<img src= images/6.jpg width="25%">  
+<img src= images/7.jpg width="25%">  
+<img src= images/8.jpg width="25%">  
+<img src= images/9.jpg width="25%">   
 
-For each file with ending in ".sh"
-
-```
-$sudo chmod +x FILENAME
-```
 
 ## Deployment
 
