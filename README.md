@@ -25,7 +25,7 @@ This instructional will help guide you in making this project at home
 <img src= images/4.jpg width="50%">  
 <img src= images/5.jpg width="50%">  
 <img src= images/6.jpg width="50%">  
-<img src= images/7.jpg width="50%"> --> this is the view if it were to be looked from behind, this image is flipped and does not reflect the true orientation of the final result 
+<img src= images/7.jpg width="50%">--> this is the view if it were to be looked from behind, this image is flipped and does not reflect the true orientation of the final result 
 <img src= images/8.jpg width="50%">  
 <img src= images/9.jpg width="50%">   
 
