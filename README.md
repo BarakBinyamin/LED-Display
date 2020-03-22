@@ -19,9 +19,9 @@ This instructional will help guide you in making this project at home
 
 ### Setup Steps
 
-<img src= images/1.jpg width="50%">  
-<img src= images/2.jpg width="50%">  
-<img src= images/3.jpg width="50%">  
+<img src= images/1.jpg width="50%"> This is an 5mm LED
+<img src= images/2.jpg width="50%"> bend all 25 small leads down
+<img src= images/3.jpg width="50%"> bend all 25 big leads to thr right, it's important they are all the same heigt and also at least a half
 <img src= images/4.jpg width="50%">  
 <img src= images/5.jpg width="50%">  
 <img src= images/6.jpg width="50%">  
