@@ -27,7 +27,7 @@ In this project the container was laser cut out of wood, but cardboard would do 
 <img src= images/1.jpg width="50%"><img src= images/2.jpg width="49.5%">
 #### 2. Bend all 25 big leads to the right
 It's important they are all the same heigt and a good distance up from the LED, ensuring the horizontal and vertical leads won't touch  
-<img src= images/3.jpg width="45%"><img src= images/4.jpg width="45%">  
+<img src= images/3.jpg width="50%"><img src= images/4.jpg width="50%">  
 
 #### 3. Solder the rows
 solder all the horizontal leads, row by row, it's important to avoid connected the horizontal and vertical leads
