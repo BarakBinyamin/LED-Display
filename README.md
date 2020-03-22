@@ -29,21 +29,14 @@ In this project the container was laser cut out of wood, but cardboard would do 
 It's important they are all the same heigt and a good distance up from the LED, ensuring the horizontal and vertical leads won't touch  
 <img src= images/3.jpg width="50%"><img src= images/4.jpg width="50%">  
 
-#### 3. Solder the rows
-solder all the horizontal leads, row by row, it's important to avoid connected the horizontal and vertical leads
-<img src= images/5.jpg width="50%">  
+#### 3. Solder the rows and colums
+solder all the horizontal leads, row by row, it's important to avoid connected the horizontal and vertical leads.
+solder the horizontal leads
+<img src= images/5.jpg width="50%"><img src= images/6.jpg width="50%">
 
-#### 4. Solder the columns
-Solder all the vertical leads in each column, it's important to avoid connected the horizontal and vertical leads
-<img src= images/6.jpg width="50%"> 
-
-
-#### Back
+#### Back and Front
 The image shown above is the view if it were to be looked from behind, this image is flipped and does not reflect the true orientation of the final result  
-<img src= images/7.jpg width="50%">  
-
-#### Front
-<img src= images/8.jpg width="50%">  
+<img src= images/7.jpg width="50%"><img src= images/8.jpg width="50%"> 
 
 
 <img src= images/9.jpg width="50%">   
