@@ -3,7 +3,7 @@
 <img src= images/9.jpg width="25%">         <img src= images/movie.gif width="14.7%">
 
 
-This project demonstrates how to make and use a five by five LED display
+This project demonstrates how to setup a five by five LED display
 
 
 ## Getting Started
@@ -30,10 +30,11 @@ This instructional will help guide you in making this project at home
 <img src= images/9.jpg width="50%">   
 
 
-## Deployment
 
-- connect the bottom leads of the Display to IO ports 6-10 on the the arduino
-- connect the left-side leads of the Display to IO ports 1-5 on the arduino
+## Deployment
+- upload your sketch to the arduino
+- connect the left-side leads of the Display to IO ports 1-5(or whichever ports you chose) on the arduino
+- connect the bottom leads of the Display to IO ports 6-10 (or whichever ports you chose) on the the arduino
 - power up the arduino
 
 
