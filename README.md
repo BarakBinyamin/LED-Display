@@ -2,9 +2,9 @@
 
 <img src= images/9.jpg width="25%">         <img src= images/movie.gif width="14.7%">
 
-A five by five led display, and sample code for an arduino to interact with it 
 
-Take a look at the starter code for how-to instructions
+This project demonstrates how to make and use a five by five LED display
+
 
 ## Getting Started
 
