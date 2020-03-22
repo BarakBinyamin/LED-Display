@@ -2,15 +2,13 @@
 
 <img src= images/9.jpg width="25%">         <img src= images/movie.gif width="14.7%">
 
-  
-  
-  
+<br> 
 This project demonstrates how to set up a five by five LED display
-
-
+<br> <br> 
 ## Getting Started
 
 This instructional will help guide you in making this project at home
+<br> <br>
 
 ### Prerequisites
 
