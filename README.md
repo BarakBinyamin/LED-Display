@@ -32,27 +32,11 @@ This instructional will help guide you in making this project at home
 
 ## Deployment
 
+- connect the bottom leads of the Display to IO ports 6-10 on the the arduino
+- connect the left-side leads of the Display to IO ports 1-5 on the arduino
 - power up the arduino
-- navigate to the GUI folder in the command line
-- run the python gui
-
-```
-
-$python3 LedDisplay.py
-
-```
-
-
-## Built With
-
-
-- arduino
-- python wx
-- bash 
 
 
 ## Acknowledgments
 
-https://github.com/arduino-libraries/ArduinoBLE/blob/master/examples/Peripheral/LED/LED.ino  
-https://www.arduino.cc/en/Guide/NANO33BLE  
-https://docs.ubuntu.com/core/en/stacks/bluetooth/bluez/docs/reference/gatt-services
+coming soon
