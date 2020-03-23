@@ -17,7 +17,8 @@ This instructional will help guide you in making this project at home
 - some cardboard, wood, or any object that could hold 25 LED's. 
 - an arduino microcontroller
 
-In this project the container was laser cut out of wood, but cardboard would do just as well, the holes are about 5mm in diameter, spaced 5mm apart from eachother and the from the edges.
+-take a look at the [circuit diagram](https://github.com/BarakBinyamin/LED-Display/blob/master/images/CircuitDiagram.png)
+-take a look at the [casing schematic]()
 
 
 ### Setup Steps
@@ -30,7 +31,7 @@ It's important they are all the same heigt and a good distance up from the LED, 
 
 #### 3. Solder the rows and colums
 solder all the horizontal leads, row by row, it's important to avoid connected the horizontal and vertical leads.
-solder the horizontal leads  
+solder the horizontal leads. It may also be helpful to use the casing as a guide.
 <img src= images/5.jpg width="45%"><img src= images/6.jpg width="48.8%">
 
 #### Front and Back
