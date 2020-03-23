@@ -43,8 +43,8 @@ The image of the back is fliped
 
 ## Deployment
 - Upload your sketch to the arduino
-- Connect the left-side leads of the Display to IO ports 1-5(or whichever ports you chose) on the arduino
-- Connect the bottom leads of the Display to IO ports 6-10 (or whichever ports you chose) on the the arduino
+- Connect the left-side leads of the Display to IO ports 6-10(or whichever ports you chose) on the arduino
+- Connect the bottom leads of the Display to IO ports 0-4 (or whichever ports you chose) on the the arduino
 - Power up the arduino
 
 
