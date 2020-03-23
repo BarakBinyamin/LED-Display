@@ -43,10 +43,11 @@ The image of the back is fliped
 
 ## Deployment
 - Upload your sketch to the arduino
-- Connect the left-side leads of the Display to IO ports 6-10(or whichever ports you chose) on the arduino
-- Connect the bottom leads of the Display to IO ports 0-4 (or whichever ports you chose) on the the arduino
+- Connect the left-side leads of the Display to Digital IO ports 5-9(or whichever ports you chose) on the arduino
+- Connect the bottom leads of the Display to Digital IO ports 0-4 (or whichever ports you chose) on the the arduino
 - Power up the arduino
 
 
 ## Acknowledgments
 - https://appelsiini.net/2011/how-does-led-matrix-work/
+- https://www.circuitstoday.com/wp-content/uploads/2018/02/Arduino-Mega-Pin-Configuration.jpg
