@@ -14,8 +14,8 @@ This instructional will help guide you in making this project at home
 ### Prerequisites
 
 - 25 5mm LED's
-- some cardboard, wood, or any object that could hold 25 LED's. 
-- an arduino microcontroller <br>
+- Some cardboard, wood, or any object that could hold 25 LED's. 
+- An arduino microcontroller <br>
 
 Before you start, it may be helpful to take a look at the [circuit diagram](https://github.com/BarakBinyamin/LED-Display/blob/master/images/CircuitDiagram.png) and the [casing schematic](https://github.com/BarakBinyamin/LED-Display/blob/master/images/CasingSchematic.jpg)
 
@@ -29,12 +29,12 @@ It's important they are all the same heigt and a good distance up from the LED, 
 <img src= images/3.jpg width="49.99%"><img src= images/4.jpg width="50%">  
 
 #### 3. Solder the rows and colums
-solder all the horizontal leads, row by row, it's important to avoid connected the horizontal and vertical leads.
+Solder all the horizontal leads, row by row, it's important to avoid connected the horizontal and vertical leads.
 solder the horizontal leads. It may also be helpful to use the casing as a guide.  
 <img src= images/5.jpg width="45%"><img src= images/6.jpg width="48.8%">
 
 #### Front and Back
-the image of the back is fliped  
+The image of the back is fliped
 <img src= images/8.jpg width="50.1%"><img src= images/7.jpg width="46.5%">
 
 
@@ -42,12 +42,11 @@ the image of the back is fliped
 
 
 ## Deployment
-- upload your sketch to the arduino
-- connect the left-side leads of the Display to IO ports 1-5(or whichever ports you chose) on the arduino
-- connect the bottom leads of the Display to IO ports 6-10 (or whichever ports you chose) on the the arduino
-- power up the arduino
+- Upload your sketch to the arduino
+- Connect the left-side leads of the Display to IO ports 1-5(or whichever ports you chose) on the arduino
+- Connect the bottom leads of the Display to IO ports 6-10 (or whichever ports you chose) on the the arduino
+- Power up the arduino
 
 
 ## Acknowledgments
-
-coming soon
+- https://appelsiini.net/2011/how-does-led-matrix-work/
