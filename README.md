@@ -34,7 +34,7 @@ solder the horizontal leads. It may also be helpful to use the casing as a guide
 <img src= images/5.jpg width="45%"><img src= images/6.jpg width="48.8%">
 
 #### Front and Back
-The image of the back is fliped
+The image of the back is fliped  
 <img src= images/8.jpg width="50.1%"><img src= images/7.jpg width="46.5%">
 
 
