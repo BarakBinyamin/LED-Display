@@ -31,11 +31,11 @@ It's important they are all the same heigt and a good distance up from the LED, 
 #### 3. Solder the rows and colums
 Solder all the horizontal leads, row by row, it's important to avoid connected the horizontal and vertical leads.
 solder the horizontal leads. It may also be helpful to use the casing as a guide.  
-<img src= images/5_.jpg width="45%"><img src= images/6.jpg width="48.8%">
+<img src= images/5_.jpg width="45%"><img src= images/6.jpg width="45.4%">
 
 #### Front and Back
 The image of the back is fliped  
-<img src= images/8.jpg width="55%"><img src= images/7.jpg width="46.5%">
+<img src= images/8.jpg width="50%"><img src= images/7.jpg width="46.4%">
 
 
 <img src= images/9.jpg width="50%">   
