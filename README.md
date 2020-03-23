@@ -17,7 +17,7 @@ This instructional will help guide you in making this project at home
 - some cardboard, wood, or any object that could hold 25 LED's. 
 - an arduino microcontroller <br>
 
-Before you start, it may be helpful to take a look at the [circuit diagram](https://github.com/BarakBinyamin/LED-Display/blob/master/images/CircuitDiagram.png) and the [casing schematic]()
+Before you start, it may be helpful to take a look at the [circuit diagram](https://github.com/BarakBinyamin/LED-Display/blob/master/images/CircuitDiagram.png) and the [casing schematic](https://github.com/BarakBinyamin/LED-Display/blob/master/images/CasingSchematic.jpg)
 
 
 ### Setup Steps
