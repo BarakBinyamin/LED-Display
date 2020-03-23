@@ -14,7 +14,7 @@ This instructional will help guide you in making this project at home
 ### Prerequisites
 
 - 25 5mm LED's
-- Some cardboard, wood, or any object that could hold 25 LED's. 
+- A five by five LED display casing
 - An arduino microcontroller <br>
 
 Before you start, it may be helpful to take a look at the [circuit diagram](https://github.com/BarakBinyamin/LED-Display/blob/master/images/CircuitDiagram.png) and the [casing schematic](https://github.com/BarakBinyamin/LED-Display/blob/master/images/CasingSchematic.jpg)
