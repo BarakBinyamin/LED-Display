@@ -14,7 +14,7 @@ This instructional will help guide you in making this project at home
 ### Prerequisites
 
 - 25 5mm LED's
-- A five by five LED display casing, here's the [schematic](https://github.com/BarakBinyamin/LED-Display/blob/master/images/CasingSchematic.jpg) to make one
+- A five by five LED display casing, here's the [dimensioned diagram](https://github.com/BarakBinyamin/LED-Display/blob/master/images/CasingSchematic.jpg) to make one
 - An arduino microcontroller <br>
 
 Before you start, it may be helpful to take a look at the [circuit diagram](https://github.com/BarakBinyamin/LED-Display/blob/master/images/Circuit_Diagram.png)   
