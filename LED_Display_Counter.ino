@@ -43,7 +43,7 @@ void displayLine(int Row, int column0, int column1, int column2, int column3, in
 }
 
 /*create any frame like this, the example below shows a 2
-put a 1 where the led should be on and zero where the led should be off
+put a 1 where an led should be on and zero where an led should be off
 
 void displayFrame(){
   displayLine(9, 0, 1, 1, 1, 0);
