@@ -9,17 +9,17 @@
 /* 
   Digital IO ports Diagram
   
-    9  x   x   x   x   x
+    9   x    x    x    x    x
 
-    8  x   x   x   x   x
+    8   x    x    x    x    x
 
-    7  x   x   x   x   x
+    7   x    x    x    x    x
 
-    6  x   x   x   x   x
+    6   x    x    x    x    x
 
-    5  x   x   x   x   x
+    5   x    x    x    x    x
 
-       4   3   2   1   0
+        4    3    2    1    0
 */
 
 void setup() {
