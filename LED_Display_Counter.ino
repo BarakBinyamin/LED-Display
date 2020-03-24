@@ -24,7 +24,7 @@
 
 void setup() {
 
-  // set LED pin to output mode
+  // set LED pins to output mode
   for(int i=0; i<=9; i++){pinMode(i, OUTPUT);}
   for(int i=0; i<=9; i++){digitalWrite(i, LOW);}
 
