@@ -25,7 +25,7 @@ Before you start, it may be helpful to take a look at the [circuit diagram](http
 #### 1. Bend all 25 small leads down
 <img src= images/1.jpg width="50%"><img src= images/2.jpg width="49.5%">
 #### 2. Bend all 25 big leads to the right
-It's important they are all the same heigt and a good distance up from the LED, ensuring the horizontal and vertical leads won't touch  
+It's important they are all the same height and a good distance up from the LED, ensuring the horizontal and vertical leads won't touch  
 <img src= images/3.jpg width="49.99%"><img src= images/4.jpg width="50%">  
 
 #### 3. Solder the rows and colums
