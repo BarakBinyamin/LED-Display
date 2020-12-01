@@ -48,5 +48,6 @@ The image of the back is fliped
 
 
 ## Acknowledgments
+- Inspiration from my Uncle Andrew
 - https://appelsiini.net/2011/how-does-led-matrix-work/
 - https://www.circuitstoday.com/wp-content/uploads/2018/02/Arduino-Mega-Pin-Configuration.jpg
